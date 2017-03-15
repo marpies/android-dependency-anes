@@ -4,5 +4,5 @@ Repository with extensions that package JAR libraries required by multiple exten
 
 ## Versions
 
-* Google Play Services `v9.4.0`
-* Android Support `v24.0.0`
+* Google Play Services `v10.2.0`
+* Android Support `v25.2.0`
