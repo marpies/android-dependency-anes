@@ -6,5 +6,5 @@ Repository with extensions that package JAR libraries required by multiple exten
 
 See [releases](../../releases) for other versions.
 
-* Google Play Services `v10.2.0`
-* Android Support `v25.2.0`
+* Google Play Services `v12.0.0`
+* Android Support `v27.1.0`
